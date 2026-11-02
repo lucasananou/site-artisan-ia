@@ -12,6 +12,7 @@ Six prompts à coller tels quels dans un agent IA (Claude Code, Codex, Cursor…
 | [`05-verification.md`](05-verification.md) | Passer la checklist avant mise en ligne, preuves à l'appui. |
 | [`06-mise-en-ligne.md`](06-mise-en-ligne.md) | Déployer et brancher le nom de domaine. |
 | [`07-pixel-perfect-maquette.md`](07-pixel-perfect-maquette.md) | Reproduire une maquette Dribbble ou Figma au pixel près, captures comparées en boucle. |
+| [`08-audit-mise-en-production.md`](08-audit-mise-en-production.md) | Audit SEO, sécurité et vitesse avant la mise en production, preuves à l'appui. |
 
 Règle commune à tous : **l'agent ne doit rien inventer.** Toute information absente reste
 entre crochets et doit t'être signalée à la fin.

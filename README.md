@@ -18,7 +18,7 @@ vrai site livrable à un artisan.
   `sitemap.xml`, `robots.txt`, favicon
 - Responsive de 360 à 1440 px, accessible (contrastes, focus visibles, navigation au clavier)
 - Polices auto-hébergées : **aucun appel à Google Fonts**, rien à déclarer côté RGPD
-- [`prompts/`](prompts/) : sept prompts prêts à copier dans un agent IA
+- [`prompts/`](prompts/) : huit prompts prêts à copier dans un agent IA
 
 Le contenu livré est celui d'un artisan **fictif**, « Atelier Vasseur », signalé par un bandeau
 en haut de chaque page. Tout est à remplacer.
