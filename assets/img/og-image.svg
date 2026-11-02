@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#121619"/>
+  <g fill="none" stroke="#2b3238" stroke-width="1">
+    <path d="M0 150h1200M0 310h1200M0 470h1200M300 0v630M600 0v630M900 0v630"/>
+  </g>
+  <rect x="80" y="252" width="56" height="4" fill="#c8502d"/>
+  <text x="80" y="330" font-family="Georgia, serif" font-size="72" fill="#ffffff">Atelier Vasseur</text>
+  <text x="80" y="392" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#aab3bb">Menuiserie &amp; agencement sur mesure</text>
+  <text x="80" y="446" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#c8502d" letter-spacing="3">EXEMPLE &#183; IMAGE A REMPLACER</text>
+</svg>

@@ -1,0 +1,6 @@
+# Remplacer exemple.fr par le domaine réel avant la mise en ligne.
+User-agent: *
+Allow: /
+
+# Les pages légales portent déjà une balise noindex.
+Sitemap: https://www.exemple.fr/sitemap.xml
