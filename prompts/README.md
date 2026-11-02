@@ -14,3 +14,4 @@ Six prompts à coller tels quels dans un agent IA (Claude Code, Codex, Cursor…
 
 Règle commune à tous : **l'agent ne doit rien inventer.** Toute information absente reste
 entre crochets et doit t'être signalée à la fin.
+- [`07-pixel-perfect-maquette.md`](07-pixel-perfect-maquette.md) : reproduire une maquette Dribbble ou Figma au pixel près, avec comparaison de captures en boucle.
