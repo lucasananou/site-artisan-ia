@@ -11,7 +11,7 @@ Six prompts à coller tels quels dans un agent IA (Claude Code, Codex, Cursor…
 | [`04-seo-local.md`](04-seo-local.md) | Balises, JSON-LD, pages par commune, fiche Google Business. |
 | [`05-verification.md`](05-verification.md) | Passer la checklist avant mise en ligne, preuves à l'appui. |
 | [`06-mise-en-ligne.md`](06-mise-en-ligne.md) | Déployer et brancher le nom de domaine. |
+| [`07-pixel-perfect-maquette.md`](07-pixel-perfect-maquette.md) | Reproduire une maquette Dribbble ou Figma au pixel près, captures comparées en boucle. |
 
 Règle commune à tous : **l'agent ne doit rien inventer.** Toute information absente reste
 entre crochets et doit t'être signalée à la fin.
-- [`07-pixel-perfect-maquette.md`](07-pixel-perfect-maquette.md) : reproduire une maquette Dribbble ou Figma au pixel près, avec comparaison de captures en boucle.
